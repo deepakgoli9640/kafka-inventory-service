@@ -13,3 +13,6 @@ spring:
           json:
             trusted:
               packages: '*'
+app:
+  datasource:
+    enabled:false
